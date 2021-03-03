@@ -1,0 +1,12 @@
+h1 {text-align:center;}
+.a{
+  background-color: #e4fbff;
+  margin-bottom: 0;
+}
+.b{
+  display:inline-block;
+  padding:10px;
+}
+nav{
+  margin:0;
+}
